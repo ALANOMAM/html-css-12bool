@@ -1,3 +1,17 @@
 body{
     background-color: blanchedalmond;
 }
+
+.green-nested{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(0, 225, 101, 1);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.center{
+    gap:5px;
+    padding:10px ;
+}
