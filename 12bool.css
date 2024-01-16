@@ -164,3 +164,35 @@
 .offset-12 {
     margin-left: calc(100% / 12 * 12);
 }
+
+/*flex-start middle e end*/
+.start{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+}
+
+.end{
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* top middle e bottom */
+.top{
+    display: flex;
+    align-items: flex-start;
+}
+
+.middle2{
+    display: flex;
+    align-items: center;
+}
+
+.bottom{
+    display: flex;
+    align-items: flex-end;
+}

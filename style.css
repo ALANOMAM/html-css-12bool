@@ -19,3 +19,11 @@ body{
     gap:5px;
     padding:10px ;
 }
+
+.big-height{
+    height: 100px;
+}
+
+[class*="col-"]{
+    background-color:rgba(0, 108, 250, 1) ;
+}
