@@ -101,6 +101,7 @@
   justify-content: center;
 }
 
+/*padding top e bottom di 5px*/
 .pt-5{
     padding-top: 5px;
 }
@@ -109,7 +110,7 @@
     padding-bottom: 5px;
 }
 
-
+/*l'altezza indicativa per dare una dimensione temporane al contenitore */
 
 .test-height{
     height: 45px;
