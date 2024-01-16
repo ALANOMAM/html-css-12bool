@@ -6,11 +6,10 @@ body{
     margin-top: 20px;
 }
 
-.green-nested{
+.green-nested {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:rgba(0, 225, 101, 1);
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -26,4 +25,8 @@ body{
 
 [class*="col-"]{
     background-color:rgba(0, 108, 250, 1) ;
+}
+
+[class*="green-"]{
+    background-color:rgba(0, 225, 101, 1);
 }
